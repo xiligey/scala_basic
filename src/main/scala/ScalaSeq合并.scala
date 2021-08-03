@@ -1,6 +1,6 @@
 object ScalaSeq合并 {
   def main(args: Array[String]): Unit = {
-    val x = 2000 * None
+    val x: Int = 2000
     println(10000000 > x)
 
 
